@@ -42,17 +42,6 @@ export default function Home() {
       setShowResult(true);
     }
   };
-
-  const resetGame = () => {
-    setGameMode('tutorial');
-    setCurrentLevel(1);
-    setUserInput('');
-    setTutorialComplete(false);
-    setGameComplete(false);
-    setShowResult(false);
-    setResultMessage('');
-  };
-
   const getLevelContent = () => {
     switch (currentLevel) {
       case 1:
