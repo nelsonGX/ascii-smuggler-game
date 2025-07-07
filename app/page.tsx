@@ -84,7 +84,7 @@ export default function Home() {
     return (
       <div className="min-h-screen bg-white">
       <div className="max-w-4xl mx-auto p-4">
-        <h1 className="text-4xl font-bold text-center mt-10 text-black">ASCII Smuggler Game</h1>
+        <h1 className="text-4xl font-bold text-center mt-10 text-black">ASCII</h1>
         <h2 className="text-2xl font-bold text-center mt-8 mb-4 text-black">教學關卡</h2>
         <p className="text-center mt-4 mb-8 text-black">
           嘗試把下面這串字貼到 
