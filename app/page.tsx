@@ -88,7 +88,7 @@ export default function Home() {
         <h2 className="text-2xl font-bold text-center mt-8 mb-4 text-black">教學關卡</h2>
         <p className="text-center mt-4 mb-8 text-black">
           嘗試把下面這串字貼到 
-          <a href="https://www.gemini.com" target="_blank" rel="noopener noreferrer" className="text-blue-400"> Gemini</a> /
+          <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer" className="text-blue-400"> Gemini</a> /
           <a href="https://www.claude.ai" target="_blank" rel="noopener noreferrer" className="text-blue-400"> Claude</a> /
           <a href="https://www.grok.com" target="_blank" rel="noopener noreferrer" className="text-blue-400"> Grok </a> 
           等 LLM 裡面，問他有什麼秘密...（不要使用 ChatGPT）
